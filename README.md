@@ -48,7 +48,7 @@ If you'd like to discuss my certifications, skills, or projects, feel free to re
     <img src="https://k.top4top.io/p_3672df7xa1.png" style="vertical-align:middle;">
     <span style="color:#999;font-weight:bold; vertical-align:middle;">Mouad FAZZARI</span>
 </a>
-
+<br>
 <a href="mailto:fazzarimouaad@gmail.com" style="text-decoration:none">
     <img src="https://j.top4top.io/p_3672ufswx1.png" style="vertical-align:middle;">
     <span style="color:#999; font-weight:bold; vertical-align:middle">fazzarimouaad@gmail.com</span>
