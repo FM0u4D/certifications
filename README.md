@@ -54,6 +54,7 @@ If you'd like to discuss my certifications, skills, or projects, feel free to re
     <span style="color:#999; font-weight:bold; vertical-align:middle">fazzarimouaad@gmail.com</span>
 </a>
 
+
 ---
 
 
