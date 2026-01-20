@@ -49,7 +49,7 @@ If you'd like to discuss my certifications, skills, or projects, feel free to re
 [![Mouad FAZZARI](https://k.top4top.io/p_3672df7xa1.png)](https://www.linkedin.com/in/fazzari-mouad-869347342) **Mouad FAZZARI**
 
 <!-- Gmail -->
-[![email me](https://j.top4top.io/p_3672ufswx1.png)](mailto:fazzarimouaad@gmail.com) **Email me**
+[![email me](https://e.top4top.io/p_3672ac6cs1.png)](mailto:fazzarimouaad@gmail.com) **Email me**
 
 
 
