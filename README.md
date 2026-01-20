@@ -45,17 +45,10 @@ While this repository mainly hosts PDFs, it demonstrates:
 If you'd like to discuss my certifications, skills, or projects, feel free to reach out:
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/fazzari-mouad-869347342" target="_blank" style="text-decoration:none; display:inline-flex; align-items:center; margin-bottom:5px;">
-    <img src="https://k.top4top.io/p_3672df7xa1.png" width="24" height="24" style="display:block;"/>
-    <span style="color:#999; font-weight:bold; margin-left:8px;">Mouad FAZZARI</span>
-</a>
-<br>
+[![LinkedIn + Name](https://www.linkedin.com/in/fazzari-mouad-869347342)](https://www.linkedin.com/in/fazzari-mouad-869347342)
 
-<!-- Email -->
-<a href="mailto:fazzarimouaad@gmail.com" style="text-decoration:none; display:inline-flex; align-items:center;">
-    <img src="https://j.top4top.io/p_3672ufswx1.png" width="24" height="24" style="display:block;"/>
-    <span style="color:#999; font-weight:bold; margin-left:8px;">fazzarimouaad@gmail.com</span>
-</a>
+<!-- Gmail -->
+[![Gmail + Email](https://j.top4top.io/p_3672ufswx1.png)](mailto:fazzarimouaad@gmail.com)
 
 
 
